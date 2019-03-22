@@ -1,0 +1,9 @@
+[package]
+
+name = "timeseries"
+version = "0.0.1"
+authors = [ "fxborg" ]
+
+[dependencies]
+chrono = "*"
+
